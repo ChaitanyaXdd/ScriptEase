@@ -16,5 +16,3 @@ ScriptEase is a smart email assistant application built using **Spring Boot**, *
 - **Backend**: Spring Boot
 - **API**: Gemini API for AI integration
 - **Deployment**: Vercel for the web app, Docker for containerized services
-
-## Repository Structure
